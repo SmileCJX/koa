@@ -4,4 +4,4 @@ register({
     presets: ['stage-3']
 });
 
-require('./app-router.js');
+require('./app-controller.js');
